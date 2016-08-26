@@ -1,4 +1,4 @@
-# petl [![Build Status]()](https://travis-ci.org/ZestFinance/petl) [![Code Climate]()]()
+# subito [![Build Status]()]() [![Code Climate]()]()
 
 Shell Script and PythonScripts
 
@@ -6,7 +6,8 @@ Shell Script and PythonScripts
 
 
 
-'''subin@subito ~/CroneJobs $ git init'''
+'''subin@subito ~/CroneJobs $ git init
+'''
   
   Initialized empty Git repository in /home/subin/CroneJobs/.git/ 
 
